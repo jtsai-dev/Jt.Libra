@@ -3,3 +3,18 @@
 ################################################################################
 
 /src/.vs
+/src/Jt.Libra.Dapper/obj
+/src/Jt.Libra.Dapper/bin
+/src/Jt.Libra.Core/obj
+/src/Jt.Libra.Core/bin
+/src/Jt.Libra.Domain/obj
+/src/Jt.Libra.Domain/bin
+/src/Jt.Libra.Infrastructure/obj
+/src/Jt.Libra.Infrastructure/bin/Debug/netcoreapp2.1
+/src/Jt.Libra.Service/obj
+/src/Jt.Libra.Service/bin/Debug/netcoreapp2.1
+/src/Jt.Libra.WebApi/obj
+/src/Jt.Libra.WebApi/Logs
+/src/Jt.Libra.WebApi/bin/Debug/netcoreapp2.1
+/src/Jt.Libra.WebApi/Jt.Libra.WebApi.csproj.user
+/src/Jt.Libra.Infrastructure/Jt.Libra.Infrastructure.csproj.user

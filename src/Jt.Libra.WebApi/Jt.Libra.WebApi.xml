@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jt.Libra.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Jt.Libra.WebApi.Attrbutes.AuthAttribute.#ctor(System.Boolean)">
+            <summary>
+            the attribute for auth
+            support on action and controller
+            </summary>
+            <param name="isHandle"></param>
+        </member>
+        <member name="P:Jt.Libra.WebApi.Attrbutes.WrapResultAttribute.IsWrap">
+            <summary>
+            Wrap result on success.
+            </summary>
+        </member>
+        <member name="M:Jt.Libra.WebApi.Controllers.AuthController.SessionKey(Jt.Libra.Application.AccessTokenInput)">
+            <summary>
+            登录凭证
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Jt.Libra.WebApi.Controllers.LogController.Log(Jt.Libra.Application.Log.LogInput)">
+            <summary>
+            消息上报
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
